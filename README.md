@@ -1,4 +1,4 @@
-# Aura
+# 🌐 Aura
 
 Aura is a web application that delivers deep sentiment analysis for social media posts and product reviews. It converts textual feedback into clear, insightful data (sentiment scores, trends, etc.), so you can better understand what people are really saying.
 
